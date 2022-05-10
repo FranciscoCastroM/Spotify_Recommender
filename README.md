@@ -6,7 +6,7 @@
 
 **Objetivo** El objetivo de esta libreta es realizar un Motor de Recomendación de Canciones utilizando una base de datos pequeña de Spotify y el algoritmo K-Medias.
 
-##Importar las librerías
+## Importar las librerías
 1. Librerías para la manipulación de datos
 2. Spotify
 3. Configuración del sistema
