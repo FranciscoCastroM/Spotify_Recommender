@@ -30,3 +30,7 @@ Entre sus características podemos encontrar:
 - La cantidad de grupos , es parámetro que se debe establecer.
 
 ## Motor de recomendación.
+
+Los análisis y las visualizaciones siguieren que los géneros similares tienden ubicarse cerca al igual que las canciones por tipos; esto tiene sentido, los géneros similares suelen tener un ritmo y tempo similar.
+
+Teniendo en cuenta lo anterior es posible construir un sistema de recomendación tomando los puntos de los datos de las canciones que el usuario está escuchando y recomendar canciones que se encuentren cercanas es decir, que correspondan a los datos cercanos. Spotipy es un cliente de Python para la API web de Spotify que facilita a los desarrolladores la obtención de datos y la consulta de canciones en el catálogo de Spotify (pip install spotipy). También es necesario crear una aplicación en la [página del desarrollador de Spotify] (https://developer.spotify.com/) y guardar su ID de cliente y clave secreta para acceder a la API.
