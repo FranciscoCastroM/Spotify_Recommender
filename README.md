@@ -10,7 +10,7 @@
 5. Big Data (Spark)
 
 ## Datos Utilizados:
-
+El conjunto de datos utilizados se trata de un dataset obtenido de kaggle, el cual cuenta con un conjunto de más de 170,500 canciones, con un tamaño aproximado de 40 MB.
 
 ### Base de Datos de Spotify
 
