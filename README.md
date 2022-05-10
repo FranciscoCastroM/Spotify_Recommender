@@ -21,4 +21,4 @@ https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset
 
 ## Implementación del algoritmo K-Medias (K-Means)
 
-![kmeans](/repository/imagenes/kmeans.png?raw=true "K-Medias")
+<img src="https://github.com/FranciscoCastroM/Spotify_Recommender/blob/main/Imagenes/kmeans.png" width="50%" height="50%">
