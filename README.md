@@ -28,3 +28,5 @@ Entre sus características podemos encontrar:
 - Cada grupo es representado por el promedio de los puntos que lo componen.
 - El representante de cada grupo se denomina centroide.
 - La cantidad de grupos , es parámetro que se debe establecer.
+
+## Motor de recomendación.
