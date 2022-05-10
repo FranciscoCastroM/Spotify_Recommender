@@ -20,3 +20,5 @@ https://www.kaggle.com/datasets/maltegrosse/8-m-spotify-tracks-genre-audio-featu
 https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset
 
 ## Implementación del algoritmo K-Medias (K-Means)
+
+![kmeans](/repository/imagenes/kmeans.png?raw=true "K-Medias")
