@@ -1,4 +1,8 @@
 # Spotify_Recommender
+## Integrantes
+- Aguilera Luzanía José Luis
+- Castro Márquez Francisco Javier 
+- Hernández Cota Juan Antonio 
 
 **Objetivo** El objetivo de esta libreta es realizar un Motor de Recomendación de Canciones utilizando una base de datos pequeña de Spotify y el algoritmo K-Medias.
 
