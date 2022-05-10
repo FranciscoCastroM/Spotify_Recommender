@@ -22,3 +22,12 @@ https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset
 ## Implementación del algoritmo K-Medias (K-Means)
 
 <img src="https://github.com/FranciscoCastroM/Spotify_Recommender/blob/main/Imagenes/kmeans.png" width="50%" height="50%">
+
+El objetivo principal del método es agrupar las observaciones en grupos lo más semejante entre sí y que las pertenecientes a grupos distintos sean lo más desemejante entre sí. Las medias como la euclídea son utilizadas para medir la semejanza y desemejanza.
+
+Entre sus características podemos encontrar:
+
+- El método K-Medias divide un conjunto de  observaciones en  grupos.
+- Cada grupo es representado por el promedio de los puntos que lo componen.
+- El representante de cada grupo se denomina centroide.
+- La cantidad de grupos , es parámetro que se debe establecer.
